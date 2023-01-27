@@ -89,17 +89,14 @@ nav{
 
 
 main{
-   /* width: 100%; */
-    display: flex;
-   
+   width: 100%; 
+   display: flex;
 }
 
 aside{
    display: flex;
-   /* width: 20%; */
 }
 .aside_bar{
-   /* width: 100%; */
    display:flex; 
    flex-wrap: wrap;
    flex-direction: column;  
